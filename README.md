@@ -21,7 +21,6 @@ selesai
 code progaman untukk menghitung luas lingkaran dalam bahasa bahasa pemorogaman Pyhon:
 
 '''
-
 inmport mth
 r = float(input("Masukan Jari-jari : "))
 
