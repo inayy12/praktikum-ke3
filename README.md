@@ -28,9 +28,11 @@ keliling = 2*math.pi*r
 print ("Luas LIngkaran \t= ",format(luas,'.2f'))
 print ("Keliling Lingkaran \t= ",format(keliling '.2f'))
 '''
-![gambar](foto/in1.png)
+![gambar2](foto/in1.png)
 
-###Output 
+### Output 
+
+
 Hasil running program untuk mengethui luas Lingkaran dan Keliling Lingkaran dalam bahsa pemrograman Python
-1[gambar](foto/in2.png)
+1[gambar3](foto/in2.png)
 
