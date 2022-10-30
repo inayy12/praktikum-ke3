@@ -33,9 +33,9 @@ print ("Keliling Lingkaran \t= ",format(keliling '.2f'))
 
 ![gambar2](foto/in2.png)
 
+
 ### Output 
 
-
 Hasil running program untuk mengethui luas Lingkaran dan Keliling Lingkaran dalam bahsa pemrograman Python
-![gambar3](foto/in1.png)
 
+![gambar3](foto/in1.png)
