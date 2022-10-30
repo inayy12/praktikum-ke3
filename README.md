@@ -19,7 +19,9 @@ selesai
 
 ### Source Code
 code progaman untukk menghitung luas lingkaran dalam bahasa bahasa pemorogaman Pyhon:
+
 '''
+
 inmport mth
 r = float(input("Masukan Jari-jari : "))
 
@@ -28,6 +30,7 @@ keliling = 2*math.pi*r
 print ("Luas LIngkaran \t= ",format(luas,'.2f'))
 print ("Keliling Lingkaran \t= ",format(keliling '.2f'))
 '''
+
 ![gambar2](foto/in2.png)
 
 ### Output 
